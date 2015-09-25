@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0, canal 2 San Antonio
+http://videostreaming.cl:8080/live/mp4:canal2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="La Red" , La Red
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
+#EXTINF:-1 tvg-name="UCV" , UCV
+http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-name="TVN" , TVN
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="MEGA" , MEGA
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 tvg-name="CHV" , CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-name="Canal 13" , Canal 13
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="13C" , 13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-name="REC TV" , REC TV
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+#EXTINF:0, nuevo tiempo
+http://wow2.cl.digitalproserver.com/ntiempo/ntiempovivo/mp4:livestream1/playlist.m3u8
